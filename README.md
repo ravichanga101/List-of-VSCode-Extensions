@@ -25,3 +25,5 @@ Polacode
 9) Snippet stores code lines for reuse purposes. It has other features like import and export that make it more utilizable.
 10) An AI-based extension, Tabnine, is used for code completion by individuals and developer teams.
 11) The axe Accessibility Linter focuses on accessible code and identifies related errors along with suggested fixes.
+
+Web Dev
