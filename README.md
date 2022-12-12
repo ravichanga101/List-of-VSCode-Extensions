@@ -27,3 +27,9 @@ Polacode
 11) The axe Accessibility Linter focuses on accessible code and identifies related errors along with suggested fixes.
 
 Web Dev
+Bracket Pair Colorizer
+HTML Boilerplate
+VsCode Icons: VsCode Icons
+Auto Rename Tag
+Markdown All in One
+
